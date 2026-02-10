@@ -14,7 +14,8 @@ Introductory API documentation for developers new to APIs and HTTP requests.
 
 ⭐ [View Live Documentation](https://codymauro.github.io/NASA-API-testing/) 
 
-📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-beginner)
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-beginner) 
+
 
 **API Quickstart - Advanced Guide:** 
 
@@ -22,7 +23,8 @@ Advanced implementation patterns for experienced developers integrating NASA's A
 
 🔭 [View Live Documentation](https://codymauro.github.io/APOD-API-Test/) 
 
-📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-advanced)
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-advanced) 
+
 
 **Stripe Checkout Integration Guide - Python:** 
 
@@ -30,7 +32,8 @@ Complete integration guide with SDK setup, Python code examples, and webhook con
 
 💳 [View Live Documentation](https://codymauro.github.io/stripe-payment-guide/#stripe-checkout-overview) 
 
-📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-python)
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-python) 
+
 
 **Stripe Checkout Integration Guide - JAVA:** 
 
@@ -38,7 +41,8 @@ Complete integration guide with SDK setup, JAVA code examples, and webhook confi
 
 💳 [View Live Documentation](https://codymauro.github.io/stripe-payment-java/) 
 
-📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-java)
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-java) 
+
 
 ## Compliance & Process Documentation 
 
