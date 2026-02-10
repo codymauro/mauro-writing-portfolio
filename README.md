@@ -13,6 +13,7 @@ In this portfolio, you can see examples of:
 Introductory API documentation for developers new to APIs and HTTP requests. 
 
 ⭐ [View Live Documentation](https://codymauro.github.io/NASA-API-testing/) 
+
 📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-beginner)
 
 **API Quickstart - Advanced Guide:** 
@@ -20,6 +21,7 @@ Introductory API documentation for developers new to APIs and HTTP requests.
 Advanced implementation patterns for experienced developers integrating NASA's APOD API. 
 
 🔭 [View Live Documentation](https://codymauro.github.io/APOD-API-Test/) 
+
 📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-advanced)
 
 **Stripe Checkout Integration Guide - Python:** 
@@ -27,6 +29,7 @@ Advanced implementation patterns for experienced developers integrating NASA's A
 Complete integration guide with SDK setup, Python code examples, and webhook configuration. 
 
 💳 [View Live Documentation](https://codymauro.github.io/stripe-payment-guide/#stripe-checkout-overview) 
+
 📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-python)
 
 **Stripe Checkout Integration Guide - JAVA:** 
@@ -34,6 +37,7 @@ Complete integration guide with SDK setup, Python code examples, and webhook con
 Complete integration guide with SDK setup, JAVA code examples, and webhook configuration. 
 
 💳 [View Live Documentation](https://codymauro.github.io/stripe-payment-java/) 
+
 📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-java)
 
 ## Compliance & Process Documentation 
