@@ -21,14 +21,14 @@ Advanced implementation patterns for experienced developers integrating NASA's A
 
 🔭 [View Live Documentation](https://codymauro.github.io/APOD-API-Test/) 
 
-📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-advanced) <br><br>
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-advanced) <br><br><br>
 **Stripe Checkout Integration Guide - Python:** 
 
 Complete integration guide with SDK setup, Python code examples, and webhook configuration. 
 
 💳 [View Live Documentation](https://codymauro.github.io/stripe-payment-guide/#stripe-checkout-overview) 
 
-📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-python)  <br><br>
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-python)  <br><br><br>
 **Stripe Checkout Integration Guide - JAVA:** 
 
 Complete integration guide with SDK setup, JAVA code examples, and webhook configuration. 
