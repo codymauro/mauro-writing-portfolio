@@ -4,8 +4,8 @@
 **Why:** Demonstrates experience with emerging AI-assisted documentation workflows and ability to document complex, multi-step processes that blend human judgment with automated tools—increasingly relevant for modern technical writing teams scaling content production.<br><br>
 **Audience:** Content operations teams, technical writers, editors, and knowledge managers implementing AI-assisted workflows while maintaining quality standards.<br><br>
 **Tools Used:** Large language models (Claude/GPT), Python for workflow automation, prompt engineering techniques, structured validation frameworks.<br><br>
+[View Documentation](https://github.com/codymauro/mauro-writing-portfolio/blob/main/ai-prompt-workflows/AI%20Grok%20Prompt.pdf)  
 
-[View Documentation](https://github.com/codymauro/mauro-writing-portfolio/blob/main/ai-prompt-workflows/AI%20Grok%20Prompt.pdf)
 ## Contents 
 
 This documentation includes:  
