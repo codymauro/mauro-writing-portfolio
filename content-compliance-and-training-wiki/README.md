@@ -4,7 +4,6 @@
 **Why:** Demonstrates ability to create thorough, long-form documentation for regulated environments where accuracy and compliance are critical. Shows experience with internal knowledge base creation, maintenance, and scaling editorial standards across distributed teams.<br><br>
 **Audience:** Editorial staff, content creators, graphic designers, and compliance reviewers working in fast-paced digital publishing environments.<br><br>
 **Tools Used:** Wiki platform documentation structure, regulatory and compliance frameworks, editorial style standards, content management systems.<br><br>
-
 [View Documentation](https://github.com/codymauro/mauro-writing-portfolio/blob/main/ai-prompt-workflows/AI%20Grok%20Prompt.pdf)  
 
 ## Contents  
