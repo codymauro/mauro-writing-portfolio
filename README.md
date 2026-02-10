@@ -1,4 +1,4 @@
-## **Hi! I'm Cody. Thanks for checking out my portfolio**
+## **Hi! I'm Cody. Thanks for checking out my portfolio.**
 
 I'm a technical writer who has built documentation systems supporting multimillion-dollar production decisions at Apple TV+/Sony and established content standards for platforms reaching 10M+ monthly readers. I specialize in translating complex technical domains into clear, usable documentation for diverse audiences. 
 
