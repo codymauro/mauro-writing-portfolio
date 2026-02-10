@@ -5,7 +5,7 @@
 **Audience:** Editorial staff, content creators, graphic designers, and compliance reviewers working in fast-paced digital publishing environments.<br><br>
 **Tools Used:** Wiki platform documentation structure, regulatory and compliance frameworks, editorial style standards, content management systems.<br><br>
 [View Documentation](https://github.com/codymauro/mauro-writing-portfolio/blob/main/ai-prompt-workflows/AI%20Grok%20Prompt.pdf)  
-
+<br><br>
 ## Contents  
 
 This wiki includes:  
