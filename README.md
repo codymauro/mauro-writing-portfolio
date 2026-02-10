@@ -12,46 +12,54 @@ In this portfolio, you can see examples of:
 
 Introductory API documentation for developers new to APIs and HTTP requests. 
 
-[View Live Documentation](https://codymauro.github.io/NASA-API-testing/) • [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-beginner)
+⭐ [View Live Documentation](https://codymauro.github.io/NASA-API-testing/) 
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-beginner)
 
 **API Quickstart - Advanced Guide:** 
 
 Advanced implementation patterns for experienced developers integrating NASA's APOD API. 
 
-[View Live Documentation](https://codymauro.github.io/APOD-API-Test/) • [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-advanced)
+🔭 [View Live Documentation](https://codymauro.github.io/APOD-API-Test/) 
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-advanced)
 
 **Stripe Checkout Integration Guide - Python:** 
 
 Complete integration guide with SDK setup, Python code examples, and webhook configuration. 
 
-[View Live Documentation](https://codymauro.github.io/stripe-payment-guide/#stripe-checkout-overview) • [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-python)
+💳 [View Live Documentation](https://codymauro.github.io/stripe-payment-guide/#stripe-checkout-overview) 
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-python)
 
 **Stripe Checkout Integration Guide - JAVA:** 
 
 Complete integration guide with SDK setup, JAVA code examples, and webhook configuration. 
 
-[View Live Documentation](https://codymauro.github.io/stripe-payment-java/) • [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-java)
+💳 [View Live Documentation](https://codymauro.github.io/stripe-payment-java/) 
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/integration-stripe-java)
 
 ## Compliance & Process Documentation 
 
 **Content Creation & Legal Standards Wiki**  
 
-Comprehensive internal wiki documenting compliance procedures and legal clearance workflows for editorial teams managing high-volume content across major platforms (AOL, Newsweek).
-[View Documentation](https://github.com/codymauro/mauro-writing-portfolio/blob/main/content-compliance-and-training-wiki/Content%20IQ%20Wiki.pdf)
+Comprehensive internal wiki documenting compliance procedures and legal clearance workflows for editorial teams managing high-volume content across major platforms (AOL, Newsweek). 
+
+📄 [View Documentation](https://github.com/codymauro/mauro-writing-portfolio/blob/main/content-compliance-and-training-wiki/Content%20IQ%20Wiki.pdf)
 
 **AI-Assisted Content Workflows:** 
 
-Process documentation for LLM-assisted fact-checking, citation verification, and quality control practices—demonstrating modern AI-assisted documentation workflows.
-[View Documentation](https://github.com/codymauro/mauro-writing-portfolio/blob/main/ai-prompt-workflows/AI%20Grok%20Prompt.pdf)
+Process documentation for LLM-assisted fact-checking, citation verification, and quality control practices—demonstrating modern AI-assisted documentation workflows. 
+
+🤖 [View Documentation](https://github.com/codymauro/mauro-writing-portfolio/blob/main/ai-prompt-workflows/AI%20Grok%20Prompt.pdf)
 
 ## Research & Proposals 
 
 **Mars Agriculture Systems Proposal:** 
 
-Technical proposal synthesizing aerospace engineering, life support systems, and planetary science into structured research documentation with technical specifications for an agricultural strategy suitable for a 5,000-person, budding Martian colony.
-[View Proposal](https://github.com/codymauro/mauro-writing-portfolio/blob/main/proposal-mars-agriculture/An%20Agricultural%20Strategy%20for%20a%205%2C000-Person%20Colony.pdf)
+Technical proposal synthesizing aerospace engineering, life support systems, and planetary science into structured research documentation with technical specifications for an agricultural strategy suitable for a 5,000-person, budding Martian colony. 
 
-## Technical Skills
+🚀 [View Proposal](https://github.com/codymauro/mauro-writing-portfolio/blob/main/proposal-mars-agriculture/An%20Agricultural%20Strategy%20for%20a%205%2C000-Person%20Colony.pdf)
+
+## Technical Skills 
+
 | Documentation | APIs & Tools | Languages |
 |--------------|--------------|-----------|
 | Markdown, MkDocs | REST APIs, Postman | Python, JavaScript |
