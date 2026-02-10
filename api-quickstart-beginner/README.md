@@ -3,7 +3,7 @@
 **Why:** Created to demonstrate ability to write for non-technical audiences entering developer roles, breaking down complex concepts into accessible, step-by-step instructions without assuming prior API knowledge.
 Audience: Beginning developers, bootcamp students, and self-taught programmers making their first API calls.
 Tools Used: Postman for request testing and examples, GitHub for version control and collaboration, Markdown for documentation structure.<br><br>
-⭐ [View Live Documentation]() <br><br>
+⭐ [View Live Documentation](https://codymauro.github.io/NASA-API-testing/) <br><br>
 
 ## Contents
 This documentation includes:
