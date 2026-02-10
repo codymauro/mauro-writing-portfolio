@@ -14,7 +14,7 @@ Introductory API documentation for developers new to APIs and HTTP requests.
 
 ⭐ [View Live Documentation](https://codymauro.github.io/NASA-API-testing/) 
 
-📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-beginner) <br><br>
+📁 [View Source Files](https://github.com/codymauro/mauro-writing-portfolio/tree/main/api-quickstart-beginner) <br><br><br>
 **API Quickstart - Advanced Guide:** 
 
 Advanced implementation patterns for experienced developers integrating NASA's APOD API. 
