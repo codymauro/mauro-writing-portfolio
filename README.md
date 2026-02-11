@@ -1,6 +1,6 @@
 ## **Hi! I'm Cody. Thanks for checking out my portfolio.**
 
-I'm a technical writer who has built documentation systems supporting multimillion-dollar production decisions at Apple TV+/Sony and established content standards for platforms reaching 10M+ monthly readers. I specialize in translating complex technical domains into clear, usable documentation for diverse audiences. 
+I design content systems, including the workflows, standards, and review architecture that keep documentation and editorial output accurate, consistent, and scalable. Built documentation systems supporting multimillion-dollar production decisions at Apple TV+/Sony. Established content standards for digital publisher platforms reaching 10M+ monthly readers. I make complex technical topics into into clear, usable documentation for expert and general audiences. 
 
 [LinkedIn](www.linkedin.com/in/codymauro) • [Resume](https://docs.google.com/document/d/1-tQyiiw2vLrT0wDfehQgQRUYGKoBPRUywHc2_YW7FfM/edit?usp=sharing) • codymauro@gmail.com
 
