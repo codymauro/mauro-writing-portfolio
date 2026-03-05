@@ -2,7 +2,7 @@
 
 I design content systems, including the workflows, standards, and review architecture that keep documentation and editorial output accurate, consistent, and scalable. Built documentation systems supporting multimillion-dollar production decisions at Apple TV+/Sony. Established content standards for digital publisher platforms reaching 10M+ monthly readers. I make complex technical topics into into clear, usable documentation for expert and general audiences. 
 
-[LinkedIn](www.linkedin.com/in/codymauro) • [Resume](https://docs.google.com/document/d/1-tQyiiw2vLrT0wDfehQgQRUYGKoBPRUywHc2_YW7FfM/edit?usp=sharing) • codymauro@gmail.com
+[LinkedIn](www.linkedin.com/in/codymauro) • [Resume](https://docs.google.com/document/d/1WhdXPqVmnQvkWBylaHlTHlP2usBDhDq_/edit?usp=sharing&ouid=114637425770788314580&rtpof=true&sd=true) • [E-Mail](codymauro@gmail.com)
 
 In this portfolio, you can see examples of: 
 
